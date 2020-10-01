@@ -1,9 +1,11 @@
-//A first program in C.
+//Program Pertama dalam Bahasa C
 #include <stdio.h>
 
-//function main begins program execution
+//Fungsi main untuk mengawali eksekusi program
 int main(void)
 {
-    printf("Welcome to C!\n");
+    printf("Welcome\n");
+    printf("to\n");
+    printf("C!");
 }
-//end of function main
+//Akhir dari fungsi main
