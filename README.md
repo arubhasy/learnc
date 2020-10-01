@@ -1,1 +1,1 @@
-# learnc
+# learnc - Belajar Bahasa Pemrograman C
