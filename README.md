@@ -1,1 +1,3 @@
-# learnc - Belajar Bahasa Pemrograman C
+# learnc
+Belajar Bahasa Pemrograman C
+Albaar Rubhasy
